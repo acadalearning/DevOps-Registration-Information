@@ -12,8 +12,8 @@
 
 ### $$\textcolor{yellow}{\text{Class Days}}$$
 ```
-  - Sunday 12:00PM MST
-  - Tuesdays 7:00PM MST
+  * Sunday 12:00PM MST
+  * Tuesdays 7:00PM MST
 ```
 ### $$\textcolor{yellow}{\text{Course Duration}}$$
 ```
