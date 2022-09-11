@@ -10,7 +10,7 @@
 
 ##### Note: Register with your fullname
 
-### $\textcolor{yellow}{\text{Class Days}}$
+### $$\textcolor{yellow}{\text{Class Days}}$$
 ```
   - Sunday 12:00PM MST
   - Tuesdays 7:00PM MST
@@ -21,7 +21,6 @@
 ```
 ### $$\textcolor{yellow}{\text{ACADA's DevOps training program will provide you with in-depth knowledge of various DevOps tools, including}}$$
 ```
- + Green +
   + Git
   + GitHub
   + Jenkins
