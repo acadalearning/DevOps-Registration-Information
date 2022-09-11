@@ -15,7 +15,7 @@
   - Sunday 12:00PM MST
   - Tuesdays 7:00PM MST
 ```
-### Course Duration
+### $$\textcolor{yellow}{\text{Course Duration}}$$
 ```sh
   + 6 months + bootcamp
 ```
@@ -41,7 +41,7 @@
   + Python Scripting
   + SDLC
 ```
-### After this Program you can work as
+### $$\textcolor{yellow}{\text{After this Program you can work as:}}$$
 ```sh
   + DevOps Engineer
   + DevOps Engineer Manager
@@ -57,18 +57,18 @@
   + DevSecOps Engineer
   + IT Project Manager
 ```
-### Fees
+### $$\textcolor{yellow}{\text{Fees}}$$
 ```sh
   + $3,000 
   + Installmental payment avaliable
   + Payment options still avaliable
 ```
-### Payment Details
+### $$\textcolor{yellow}{\text{Payment Details}}$$
 ```sh
   + Interact and wise: payment@acadalearning.com
   + ### Note: make payment with your fullname and cohort9 as reference
 ```
-### Bootcamp
+### $$\textcolor{yellow}{\text{Payment Details}}$$
 ```sh
   + Resume preperation
   + LinkedIn setup
