@@ -47,7 +47,7 @@
 ```
   * DevOps Engineer
   * DevOps Engineer Manager
-  * Build and release Engineer
+  * Build and Release Engineer
   * Cloud Engineer
   * System Engineer
   * Site Reliability Engineer
