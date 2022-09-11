@@ -19,6 +19,8 @@
 ```
   * 6 months + bootcamp
 ```
+### $$\textcolor{green}{\text{Register now and get one month FREE lecture}}$$
+
 ### $$\textcolor{yellow}{\text{ACADA's DevOps training program will provide you with in-depth knowledge of various DevOps tools, including}}$$
 ```
   * Git
