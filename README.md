@@ -61,7 +61,7 @@
 ```
   * $3,000 
   * Installmental payment avaliable
-  * Other payment options still avaliable __(Speak to a constultant)__
+  * Other payment options still avaliable *(Speak to a constultant)*
 ```
 ### $$\textcolor{yellow}{\text{Payment Details}}$$
 ```
