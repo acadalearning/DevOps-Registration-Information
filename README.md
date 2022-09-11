@@ -12,7 +12,7 @@ WhatsApp: https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V
 
 ##### Class Days
 ```sh
-  + Sunday 12:00PM MST
+  :honeybee: Sunday 12:00PM MST
   + Tuesdays 7:00PM MST
 ```
 ### Course Duration
