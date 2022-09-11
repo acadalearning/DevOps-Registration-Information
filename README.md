@@ -9,7 +9,6 @@
 :point_right: WhatsApp: [Click here](https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V)
 
 ## $\textcolor{green}{\text{Register now and get one month FREE lecture}}$
-
 ##### Note: Register with your fullname
 
 ### $$\textcolor{yellow}{\text{Class Days}}$$
