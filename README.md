@@ -5,9 +5,9 @@
 # www.acadalearning.com 
 
 ### DevOps Engineering Master Program Cohort 9
-### **Link: [info@acadalearning.com](https://forms.gle/uT5Ukf5bHzQK7HWk8)**
+### **Link: [https://forms.gle/uT5Ukf5bHzQK7HWk8]**
 
-### **WhatsApp: [info@acadalearning.com](https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V)**
+### **WhatsApp: [https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V]**
 
 Note: Register with your fullname
 
