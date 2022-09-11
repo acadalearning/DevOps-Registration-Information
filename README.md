@@ -1,4 +1,3 @@
-#  **<span style="color:green">ACADA Learning</span>**
 ![ACADA!](logo.png)
 ### **<span style="color:green"> WebSite : <http://acadalearning.com/></span>**
 ### **Email: info@acadalearning.com**
