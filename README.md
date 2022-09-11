@@ -68,7 +68,7 @@
   + Interact and wise: payment@acadalearning.com
     Note: make payment with your fullname and cohort9 as reference
 ```
-### $$\textcolor{yellow}{\text{Payment Details}}$$
+### $$\textcolor{yellow}{\text{Bootcamp}}$$
 ```
   + Resume preperation
   + LinkedIn setup
