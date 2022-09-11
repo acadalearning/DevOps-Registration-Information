@@ -21,6 +21,7 @@
 ```
 ### $$\textcolor{yellow}{\text{ACADA's DevOps training program will provide you with in-depth knowledge of various DevOps tools, including}}$$
 ```
+ + Green +
   + Git
   + GitHub
   + Jenkins
