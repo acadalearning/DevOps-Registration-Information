@@ -10,7 +10,7 @@
 
 ##### Note: Register with your fullname
 
-### $$\textcolor{yellow}{\text{Class Days}}$$
+### $\textcolor{yellow}{\text{Class Days}}$
 ```
   - Sunday 12:00PM MST
   - Tuesdays 7:00PM MST
