@@ -1,7 +1,7 @@
 ![ACADA!](Acada.png)
 ### **<span style="color:green"> WebSite : <http://acadalearning.com/></span>**
 ### **Email: info@acadalearning.com**
-# :phone: Tel: +1 587 574 2233, +1 587 429 3884
+# :phone: +1 587 574 2233, +1 587 429 3884
 
 ### DevOps Engineering Master Program Cohort 9
 Registration Link: https://forms.gle/uT5Ukf5bHzQK7HWk8
@@ -12,7 +12,7 @@ WhatsApp: https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V
 
 ##### Class Days
 ```sh
-  :honeybee: Sunday 12:00PM MST
+  + Sunday 12:00PM MST
   + Tuesdays 7:00PM MST
 ```
 ### Course Duration
