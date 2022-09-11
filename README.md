@@ -8,7 +8,7 @@
 ```sh
 Registration Link: https://forms.gle/uT5Ukf5bHzQK7HWk8
 WhatsApp: https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V
-### Note: Register with your fullname
+Note: Register with your fullname
 ```
 ### Class Days
 ```sh
