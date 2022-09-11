@@ -4,8 +4,9 @@
 # :phone: +1 587 574 2233 || +1 587 429 3884
 
 ### DevOps Engineering Master Program Cohort 9
-Registration Link: https://forms.gle/uT5Ukf5bHzQK7HWk8
-WhatsApp: https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V
+:point_right: Registration Link: https://forms.gle/uT5Ukf5bHzQK7HWk8
+
+:point_right: WhatsApp: https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V
 
 ##### Note: Register with your fullname
 
