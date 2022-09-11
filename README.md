@@ -8,7 +8,7 @@
 
 :point_right: WhatsApp: [Click here](https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V)
 ##### Note: Register with your fullname
-## $\textcolor{green}{\text{Register now and get one month FREE DevOps training}}$
+## $\textcolor{green}{\text{Register now and get one month FREE DevOps Hands-on training}}$
 
 
 
