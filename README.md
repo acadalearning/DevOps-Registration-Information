@@ -12,6 +12,7 @@
 
 ### $$\textcolor{yellow}{\text{Class Days}}$$
 ```
+###### October 1st, 2022
   * Sunday 12:00PM MST
   * Tuesdays 7:00PM MST
 ```
