@@ -3,18 +3,12 @@
 ### **:email: info@acadalearning.com**
 ### :phone: +1 587 574 2233 || +1 587 429 3884
 
-
-
 # DevOps Engineering Master Program Cohort 9
 :point_right: Registration Link: [Click here](https://forms.gle/uT5Ukf5bHzQK7HWk8)
 
 :point_right: WhatsApp: [Click here](https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V)
 ##### Note: Register with your fullname
 # $\textcolor{green}{\text{Register now and get one month FREE DevOps Hands-on training}}$
-
-
-
-
 
 ### $$\textcolor{yellow}{\text{Class Days}}$$
 ```
