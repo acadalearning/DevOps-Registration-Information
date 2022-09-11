@@ -72,6 +72,6 @@
 ```
   * Resume preperation
   * LinkedIn setup
-  * Interview Preperation (Questions and answers)
+  * Interview preperation (Questions and answers)
 ```
 ![ACADA!](Acada.png)
