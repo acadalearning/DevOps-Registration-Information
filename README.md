@@ -67,7 +67,7 @@
 ```
 ### $$\textcolor{yellow}{\text{Payment Details}}$$
 ```
-  * Interact and Wise: **:email: payment@acadalearning.com**
+  * Interact and Wise: payment@acadalearning.com
     Note: make payment with your fullname and cohort9 as reference
 ```
 ### $$\textcolor{yellow}{\text{Bootcamp}}$$
