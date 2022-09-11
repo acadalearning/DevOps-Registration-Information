@@ -17,7 +17,7 @@ WhatsApp: https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V
 ```
 ### Course Duration
 ```sh
-  :balloon: 6 months + bootcamp
+  @ 6 months + bootcamp
 ```
 ### ACADA's DevOps training program will provide you with in-depth knowledge of various DevOps tools, including
 ```sh
