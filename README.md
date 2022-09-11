@@ -40,6 +40,7 @@
   * Dynatrace
   * Maven
   * Tomcat
+  * AWS
   * Wildfly - JBoss
   * Shell Scripting
   * Python Scripting
