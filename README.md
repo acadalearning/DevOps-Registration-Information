@@ -17,61 +17,61 @@
 ```
 ### $$\textcolor{yellow}{\text{Course Duration}}$$
 ```
-  + 6 months + bootcamp
+  * 6 months + bootcamp
 ```
 ### $$\textcolor{yellow}{\text{ACADA's DevOps training program will provide you with in-depth knowledge of various DevOps tools, including}}$$
 ```
-  + Git
-  + GitHub
-  + Jenkins
-  + Docker
-  + Ansible
-  + Terraform
-  + Kubernetes
-  + Helm
-  + Prometheus and Grafana
-  + Linux
-  + SonarQube
-  + Nexus
-  + Dynatrace
-  + Maven
-  + Tomcat
-  + Wildfly - JBoss
-  + Shell Scripting
-  + Python Scripting
-  + SDLC
+  * Git
+  * GitHub
+  * Jenkins
+  * Docker
+  * Ansible
+  * Terraform
+  * Kubernetes
+  * Helm
+  * Prometheus and Grafana
+  * Linux
+  * SonarQube
+  * Nexus
+  * Dynatrace
+  * Maven
+  * Tomcat
+  * Wildfly - JBoss
+  * Shell Scripting
+  * Python Scripting
+  * SDLC
 ```
 ### $$\textcolor{yellow}{\text{After this Program you can work as:}}$$
 ```
-  + DevOps Engineer
-  + DevOps Engineer Manager
-  + Build and release Engineer
-  + Cloud Engineer
-  + System Engineer
-  + Site Reliability Engineer
-  + Platform Engineer
-  + Cloud Engineer
-  + Infrastructure Engineer
-  + IT Recruiter
-  + Kubernetes Engineer
-  + DevSecOps Engineer
-  + IT Project Manager
+  * DevOps Engineer
+  * DevOps Engineer Manager
+  * Build and release Engineer
+  * Cloud Engineer
+  * System Engineer
+  * Site Reliability Engineer
+  * Platform Engineer
+  * Cloud Engineer
+  * Infrastructure Engineer
+  * IT Recruiter
+  * Kubernetes Engineer
+  * DevSecOps Engineer
+  * IT Project Manager
 ```
 ### $$\textcolor{yellow}{\text{Fees}}$$
 ```
-  + $3,000 
-  + Installmental payment avaliable
-  + Payment options still avaliable
+  * $3,000 
+  * Installmental payment avaliable
+  * Other payment options still avaliable __(Speak to a constultant)__
 ```
 ### $$\textcolor{yellow}{\text{Payment Details}}$$
 ```
-  + Interact and wise: payment@acadalearning.com
+  * Interact and wise: payment@acadalearning.com
     Note: make payment with your fullname and cohort9 as reference
 ```
 ### $$\textcolor{yellow}{\text{Bootcamp}}$$
 ```
-  + Resume preperation
-  + LinkedIn setup
-  + Interview Preperation (Questions and answers)
+  * Resume preperation
+  * LinkedIn setup
+  * Interview Preperation (Questions and answers)
 ```
 ![ACADA!](Acada.png)
