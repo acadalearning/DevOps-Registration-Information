@@ -10,7 +10,7 @@
 ##### Note: Register with your fullname
 # $\textcolor{green}{\text{Register now and get one month FREE DevOps Hands-on training}}$
 
-## $$\textcolor{red}{\text{Class Starts October 1st, 2022}}$$
+## $$\textcolor{red}{\text{Class Starts October 1st, 2022 - March 31st, 2023}}$$
 ### $$\textcolor{yellow}{\text{Class Days}}$$
 ```
   * Sunday 12:00PM MST
