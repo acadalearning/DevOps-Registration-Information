@@ -11,16 +11,16 @@
 # $\textcolor{green}{\text{Register now and get one month FREE DevOps Hands-on training}}$
 
 ## $$\textcolor{red}{\text{Class Starts October 1st, 2022 - March 31st, 2023}}$$
-### $$\textcolor{yellow}{\text{Class Days}}$$
+### $$\textcolor{blue}{\text{Class Days}}$$
 ```
   * Sunday 12:00PM MST
   * Tuesdays 7:00PM MST
 ```
-### $$\textcolor{yellow}{\text{Course Duration}}$$
+### $$\textcolor{blue}{\text{Course Duration}}$$
 ```
   * 6 months + bootcamp
 ```
-### $$\textcolor{yellow}{\text{ACADA's DevOps training program will provide you with in-depth knowledge of various DevOps tools, including}}$$
+### $$\textcolor{blue}{\text{ACADA's DevOps training program will provide you with in-depth knowledge of various DevOps tools, including}}$$
 ```
   * Git
   * GitHub
@@ -43,7 +43,7 @@
   * Python Scripting
   * SDLC
 ```
-### $$\textcolor{yellow}{\text{After this Program you can work as:}}$$
+### $$\textcolor{blue}{\text{After this Program you can work as:}}$$
 ```
   * DevOps Engineer
   * DevOps Engineer Manager
@@ -59,18 +59,18 @@
   * DevSecOps Engineer
   * IT Project Manager
 ```
-### $$\textcolor{yellow}{\text{Fees}}$$
+### $$\textcolor{blue}{\text{Fees}}$$
 ```
   * $3,000 
   * Installmental payment avaliable
   * Other payment options still avaliable *(Speak to a constultant)*
 ```
-### $$\textcolor{yellow}{\text{Payment Details}}$$
+### $$\textcolor{blue}{\text{Payment Details}}$$
 ```
   * Interact and Wise: payment@acadalearning.com
     Note: make payment with your fullname and cohort9 as reference
 ```
-### $$\textcolor{yellow}{\text{Bootcamp}}$$
+### $$\textcolor{blue}{\text{Bootcamp}}$$
 ```
   * Resume preperation
   * LinkedIn setup
