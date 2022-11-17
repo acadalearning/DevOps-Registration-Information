@@ -1,5 +1,5 @@
 ![ACADA!](AcadaLearning.png)
-### **<span style="color:green"> WebSite : <http://acadalearning.com/></span>**
+### **<span style="color:green"> website : <http://acadalearning.com/></span>**
 ### **:email: info@acadalearning.com**
 ### :phone: +1 587 574 2233 || +1 587 429 3884
 
