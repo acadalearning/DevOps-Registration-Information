@@ -8,8 +8,8 @@
 
 :point_right: WhatsApp: [Click here](https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V)
 ##### Note: Register with your fullname
-# $\textcolor{green}{\text{Register now and get one month}}$
-# $\textcolor{green}{\text{FREE DevOps Hands-on training}}$
+# $$\textcolor{green}{\text{Register now and get one month}}$$
+# $$\textcolor{green}{\text{FREE DevOps Hands-on training}}$$
 
 ## $$\textcolor{red}{\text{Class Starts January 12, 2023 - June 31st, 2023}}$$
 ### $$\textcolor{blue}{\text{Class Days}}$$
