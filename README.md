@@ -71,7 +71,7 @@
   * Interact and paypal: payment@acadalearning.com
     Note: make payment with your fullname and cohort 10 as reference
 ```
-### $$\textcolor{sky blue}{\text{Bootcamp}}$$
+### $$\textcolor{skyblue}{\text{Bootcamp}}$$
 ```
   * Resume preperation
   * LinkedIn setup
