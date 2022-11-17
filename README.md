@@ -21,8 +21,7 @@
 ```
   * 6 months + bootcamp
 ```
-### $$\textcolor{yellow}{\text{ACADA's DevOps training program will}}$$
-### $$\textcolor{yellow}{\text{provide you with in-depth knowledge of various DevOps tools, including}}$$
+### ACADA's DevOps training program will provide you with in-depth knowledge of various DevOps tools, including:
 ```
   * Git
   * GitHub
@@ -45,7 +44,7 @@
   * Python Scripting
   * SDLC
 ```
-### $$\textcolor{blue}{\text{After this Program you can work as:}}$$
+### After this Program you can work as:
 ```
   * DevOps Engineer
   * DevOps Engineer Manager
