@@ -12,12 +12,12 @@
 # Register now and get one month FREE DevOps Hands-on training
 
 ## Class Starts January 12, 2023 - June 31, 2023
-### $$\textcolor{blue}{\text{Class Days}}$$
+### $$\textcolor{steelblue}{\text{Class Days}}$$
 ```
   * Thursday 7:00PM MST
   * Sunday 12:00PM MST
 ```
-### $$\textcolor{blue}{\text{Course Duration}}$$
+### $$\textcolor{steelblue}{\text{Course Duration}}$$
 ```
   * 6 months + bootcamp
 ```
@@ -60,18 +60,18 @@
   * DevSecOps Engineer
   * IT Project Manager
 ```
-### $$\textcolor{blue}{\text{Fees}}$$
+### $$\textcolor{steelblue}{\text{Fees}}$$
 ```
   * $3,000 
   * Installmental payment avaliable
   * Other payment options still avaliable *(Speak to a constultant)*
 ```
-### $$\textcolor{blue}{\text{Payment Details}}$$
+### $$\textcolor{steelblue}{\text{Payment Details}}$$
 ```
   * Interact and paypal: payment@acadalearning.com
     Note: make payment with your fullname and cohort 10 as reference
 ```
-### $$\textcolor{steelblue}{\text{Bootcamp}}$$
+## $$\textcolor{steelblue}{\text{Bootcamp}}$$
 ```
   * Resume preperation
   * LinkedIn setup
