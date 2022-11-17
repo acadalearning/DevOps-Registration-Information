@@ -1,7 +1,7 @@
 ![ACADA!](AcadaLearning.png)
+### :phone: +1 587 574 2233 || +1 587 429 3884
 ### **<span style="color:green"> website : <http://acadalearning.com/></span>**
 ### **:email: info@acadalearning.com**
-### :phone: +1 587 574 2233 || +1 587 429 3884
 
 # DevOps Engineering Master Program Cohort 10
 :point_right: Registration Link: [Click here](https://forms.gle/rKkmKWyYssRLKDD3A)
