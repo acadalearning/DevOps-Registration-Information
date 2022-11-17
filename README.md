@@ -8,7 +8,8 @@
 
 :point_right: WhatsApp: [Click here](https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V)
 ##### Note: Register with your fullname
-# $\textcolor{green}{\text{Register now and get one month FREE DevOps Hands-on training}}$
+# $\textcolor{green}{\text{Register now and get one month}}$
+# $\textcolor{green}{\text{FREE DevOps Hands-on training}}$
 
 ## $$\textcolor{red}{\text{Class Starts January 12, 2023 - June 31st, 2023}}$$
 ### $$\textcolor{blue}{\text{Class Days}}$$
@@ -21,7 +22,7 @@
   * 6 months + bootcamp
 ```
 ### $$\textcolor{yellow}{\text{ACADA's DevOps training program will}}$$
-### $$\textcolor{blue}{\text{provide you with in-depth knowledge of various DevOps tools, including}}$$
+### $$\textcolor{yellow}{\text{provide you with in-depth knowledge of various DevOps tools, including}}$$
 ```
   * Git
   * GitHub
@@ -68,8 +69,8 @@
 ```
 ### $$\textcolor{blue}{\text{Payment Details}}$$
 ```
-  * Interact and Wise: payment@acadalearning.com
-    Note: make payment with your fullname and cohort9 as reference
+  * Interact and paypal: payment@acadalearning.com
+    Note: make payment with your fullname and cohort 10 as reference
 ```
 ### $$\textcolor{blue}{\text{Bootcamp}}$$
 ```
