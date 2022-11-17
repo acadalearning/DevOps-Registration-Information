@@ -20,8 +20,7 @@
 ```
   * 6 months + bootcamp
 ```
-### $$\textcolor{blue}{\text{ACADA's DevOps training program will 
-provide you with in-depth knowledge of various DevOps tools, including}}$$
+### $$\textcolor{blue}{\text{ACADA's DevOps training program will provide you with in-depth knowledge of various DevOps tools, including}}$$
 ```
   * Git
   * GitHub
