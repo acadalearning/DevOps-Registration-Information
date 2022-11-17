@@ -3,18 +3,18 @@
 ### **:email: info@acadalearning.com**
 ### :phone: +1 587 574 2233 || +1 587 429 3884
 
-# DevOps Engineering Master Program Cohort 9
+# DevOps Engineering Master Program Cohort 10
 :point_right: Registration Link: [Click here](https://forms.gle/uT5Ukf5bHzQK7HWk8)
 
 :point_right: WhatsApp: [Click here](https://chat.whatsapp.com/CXvTn0ROndfDsVXgd4CT6V)
 ##### Note: Register with your fullname
 # $\textcolor{green}{\text{Register now and get one month FREE DevOps Hands-on training}}$
 
-## $$\textcolor{red}{\text{Class Starts October 1st, 2022 - March 31st, 2023}}$$
+## $$\textcolor{red}{\text{Class Starts January 12, 2023 - June 31st, 2023}}$$
 ### $$\textcolor{blue}{\text{Class Days}}$$
 ```
+  * Thursday 7:00PM MST
   * Sunday 12:00PM MST
-  * Tuesdays 7:00PM MST
 ```
 ### $$\textcolor{blue}{\text{Course Duration}}$$
 ```
