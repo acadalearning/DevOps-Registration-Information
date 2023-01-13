@@ -11,7 +11,7 @@
 
 # Register now and get one month FREE DevOps Hands-on training
 
-## Class Starts January 12, 2023 - June 31, 2023
+## Class Starts January 15, 2023 - June 31, 2023
 ### $$\textcolor{steelblue}{\text{Class Days}}$$
 ```
   * Thursday 7:00PM MST
