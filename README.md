@@ -3,19 +3,19 @@
 ### **<span style="color:green"> website : <http://acadalearning.com/></span>**
 ### **:email: info@acadalearning.com**
 
-# DevOps Engineering Master Program Cohort 10
-:point_right: Registration Link: [Click here](https://forms.gle/rKkmKWyYssRLKDD3A)
+# DevOps Engineering Master Program Cohort 11
+:point_right: Registration Link: [Click here](https://forms.gle/EgeCtwqqMiTYgFiX8)
 
-:point_right: WhatsApp: [Click here](https://chat.whatsapp.com/IJB773jS2fTIZXCFwM9s58)
+:point_right: WhatsApp: [Click here](https://chat.whatsapp.com/DPloYHUxFGMB01AiSvEnHe)
 ##### Note: Register with your fullname
 
 # Register now and get one month FREE DevOps Hands-on training
 
-## Class Starts January 15, 2023 - June 31, 2023
+## Class Starts March 25th, 2023 - September 31, 2023
 ### $$\textcolor{steelblue}{\text{Class Days}}$$
 ```
-  * Thursday 7:00PM MST
-  * Sunday 12:00PM MST
+  * Tuesday 7:00PM MST
+  * Saturday 8:00AM MST
 ```
 ### $$\textcolor{steelblue}{\text{Course Duration}}$$
 ```
