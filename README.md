@@ -10,6 +10,8 @@
 :point_right: WhatsApp: [Click here](https://chat.whatsapp.com/EQAhIAj1zHn6mFy8ubgXGY)
 ##### Note: Register with your fullname
 
+:point_right: WhatsApp Chat: [Click here](https://wa.me/message/7BR3AJ7DEUJ2H1)
+
 # Register now and get one month FREE DevOps Hands-on training
 
 ## Class Starts June 24th, 2023 - November 31, 2023
