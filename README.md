@@ -1,30 +1,30 @@
 ![ACADA!](AcadaLearning.png)
-### :phone: +1 587 574 2233 || +1 587 429 3884
+### :phone: +1 587 574 2233
 ### **<span style="color:green"> website : <http://acadalearning.com/></span>**
 ### **:email: info@acadalearning.com**
 
-# DevOps Engineering Master Program Cohort 12
-:point_right: Registration Link: [Click here](https://forms.gle/myGMrUUnnsbiEBrV8)
+# DevOps Engineering Master Program
+:point_right: Registration Link: [Click here](https://forms.gle/4SLNvYb8feLZdxLM8)
 
 
-:point_right: WhatsApp: [Click here](https://chat.whatsapp.com/EQAhIAj1zHn6mFy8ubgXGY)
+:point_right: WhatsApp: [Click here](https://chat.whatsapp.com/FTZ9395Yu7311oPdaZUh3S)
 ##### Note: Register with your fullname
 
 :point_right: WhatsApp Chat: [Click here](https://wa.me/message/7BR3AJ7DEUJ2H1)
 
-# Register now and get one month FREE DevOps Hands-on training
+# Register now and get one module FREE DevOps Hands-on training
 
-## Class Starts June 24th, 2023 - November 31, 2023
+## Class Starts August 27th, 2023 - January 31, 2024
 ### $$\textcolor{steelblue}{\text{Class Days}}$$
 ```
-  * Wednesady 7:00PM MST
-  * Saturday 12:00PM MST
+  * Thursdays' 7:00 PM MST
+  * Sundays' 12:00 PM MST
 ```
 ### $$\textcolor{steelblue}{\text{Course Duration}}$$
 ```
   * 6 months + bootcamp
 ```
-### ACADA's DevOps training program will provide you with in-depth knowledge of various DevOps tools, including:
+### ACADAs' DevOps training program will provide you with in-depth knowledge of various DevOps tools, including:
 ```
   * Git
   * GitHub
@@ -66,18 +66,18 @@
 ### $$\textcolor{steelblue}{\text{Fees}}$$
 ```
   * $3,000 
-  * Installmental payment avaliable
-  * Other payment options still avaliable *(Speak to a constultant)*
+  * Installment payment available
+  * Other payment options still available *(Speak to a consultant)*
 ```
 ### $$\textcolor{steelblue}{\text{Payment Details}}$$
 ```
   * Interact and paypal: payment@acadalearning.com
-    Note: make payment with your fullname and cohort 10 as reference
+  * To pay with a credit card: https://www.paypal.com/paypalme/acadalearning
 ```
 ### $$\textcolor{steelblue}{\text{Bootcamp}}$$
 ```
-  * Resume preperation
+  * Resume preparation
   * LinkedIn setup
-  * Interview preperation (Questions and answers)
+  * Interview preparation (Questions and answers)
 ```
 ![ACADA!](Acada.png)
