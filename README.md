@@ -77,7 +77,8 @@
 ### $$\textcolor{steelblue}{\text{Bootcamp}}$$
 ```
   * Resume preparation
-  * LinkedIn setup
+  * LinkedIn optimization
   * Interview preparation (Questions and answers)
+  * On Job support
 ```
 ![ACADA!](Acada.png)
