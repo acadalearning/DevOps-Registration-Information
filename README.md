@@ -4,21 +4,21 @@
 ### **:email: info@acadalearning.com**
 
 # DevOps Engineering Master Program
-:point_right: Registration Link: [Click here](https://forms.gle/4SLNvYb8feLZdxLM8)
+:point_right: Registration Link: [Click here](https://forms.gle/TMKfytdwpcPqebLa7)
 
 
-:point_right: WhatsApp: [Click here](https://chat.whatsapp.com/FTZ9395Yu7311oPdaZUh3S)
-##### Note: Register with your fullname
+:point_right: WhatsApp: [Click here](https://chat.whatsapp.com/FmBUsFV2QkJ8QFCMKj5Lhn)
+##### Note: Register with your full name
 
 :point_right: WhatsApp Chat: [Click here](https://wa.me/message/7BR3AJ7DEUJ2H1)
 
 # Register now and get one module FREE DevOps Hands-on training
 
-## Class Starts August 27th, 2023 - January 31, 2024
+## Class Starts January 7th, 2024 - July 31, 2024
 ### $$\textcolor{steelblue}{\text{Class Days}}$$
 ```
-  * Thursdays' 7:00 PM MST
-  * Sundays' 12:00 PM MST
+  * Tuesday 7:00 PM MST
+  * Saturday 8:00 PM MST
 ```
 ### $$\textcolor{steelblue}{\text{Course Duration}}$$
 ```
