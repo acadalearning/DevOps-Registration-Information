@@ -1,10 +1,10 @@
 ![ACADA!](AcadaLearning.png)
-### :phone: +1 587 574 2233
+### :phone: +1 587 306 2233
 ### **<span style="color:green"> website : <http://acadalearning.com/></span>**
 ### **:email: info@acadalearning.com**
 
 # DevOps Engineering Master Program
-:point_right: Registration Link: [Click here](https://forms.gle/TMKfytdwpcPqebLa7)
+:point_right: Registration Link: [Click here](https://forms.gle/6RkxNsR6xAgPz1jp6)
 
 
 :point_right: WhatsApp: [Click here](https://chat.whatsapp.com/FmBUsFV2QkJ8QFCMKj5Lhn)
@@ -14,7 +14,7 @@
 
 # Register now and get one module FREE DevOps Hands-on training
 
-## Class Starts January 7th, 2024 - July 31, 2024
+## Class Starts January 6th, 2024 - July 31, 2024
 ### $$\textcolor{steelblue}{\text{Class Days}}$$
 ```
   * Tuesday 7:00 PM MST
