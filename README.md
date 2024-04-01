@@ -3,22 +3,22 @@
 ### **<span style="color:green"> website : <http://acadalearning.com/></span>**
 ### **:email: info@acadalearning.com**
 
-# DevOps Engineering Master Program
-:point_right: Registration Link: [Click here](https://forms.gle/6RkxNsR6xAgPz1jp6)
+# DevOps Engineering Master Program with AWS and Azure
+:point_right: Registration Link: [Click here](https://forms.gle/96u4515fiLduUAKK6)
 
 
-:point_right: WhatsApp: [Click here](https://chat.whatsapp.com/FmBUsFV2QkJ8QFCMKj5Lhn)
+:point_right: WhatsApp: [Click here](https://chat.whatsapp.com/KGX8JeHyA0ZGfGIKfAV5Hc)
 ##### Note: Register with your full name
 
 :point_right: WhatsApp Chat: [Click here](https://wa.me/message/7BR3AJ7DEUJ2H1)
 
 # Register now and get one module FREE DevOps Hands-on training
 
-## Class Starts January 6th, 2024 - July 31, 2024
+## Class Starts April 13th, 2024 - October 31, 2024
 ### $$\textcolor{steelblue}{\text{Class Days}}$$
 ```
-  * Tuesday 7:00 PM MST
-  * Saturday 8:00 PM MST
+  * Wednesday 7:00 PM MST (9:00 PM EST)
+  * Saturday 12:00 PM MST (2:00 PM EST)
 ```
 ### $$\textcolor{steelblue}{\text{Course Duration}}$$
 ```
@@ -42,6 +42,9 @@
   * Maven
   * Tomcat
   * AWS
+  * Azure
+  * Azure DevOps
+  * Active Directory
   * Wildfly - JBoss
   * Shell Scripting
   * Python Scripting
@@ -65,7 +68,7 @@
 ```
 ### $$\textcolor{steelblue}{\text{Fees}}$$
 ```
-  * $3,000 
+  * $3,500 
   * Installment payment available
   * Other payment options still available *(Speak to a consultant)*
 ```
@@ -80,5 +83,6 @@
   * LinkedIn optimization
   * Interview preparation (Questions and answers)
   * On Job support
+  * Capstone Projects
 ```
 ![ACADA!](Acada.png)
